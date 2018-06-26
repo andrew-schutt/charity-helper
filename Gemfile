@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'redis', '~> 4.0'
 gem 'capistrano-rails', group: :development
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'devise'
 
 group :development, :test do
   gem 'pry-byebug'
