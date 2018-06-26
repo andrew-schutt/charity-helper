@@ -15,7 +15,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
   gem 'pry-byebug'
-  gem 'gem install binding_of_caller'
+  gem 'binding_of_caller'
   gem 'better_errors'
 end
 
